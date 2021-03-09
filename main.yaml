@@ -1,0 +1,15 @@
+---
+- host: all
+  gather_facts: false
+  become: false
+
+  roles: []
+
+
+  pre_tasks: []
+
+
+  tasks: []
+
+
+  post_tasks: []
